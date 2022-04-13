@@ -1,5 +1,5 @@
 # Data-Pipeline-via-Airflow
-In this project prefixed data was processed with data pipelines with ELT process.
+In this project prefixed `data.zip` was processed with data pipelines with ELT process.
 
 ## Tools
 In order to perform this project, Apache Airflow workschedule tool was used interplay with AWS S3 storage and AWS Redshift relational database tools.
